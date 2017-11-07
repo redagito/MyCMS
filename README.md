@@ -1,0 +1,2 @@
+# MyCMS
+Educational CMS Project
